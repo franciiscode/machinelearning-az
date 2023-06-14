@@ -11,7 +11,7 @@ En él te guiaremos paso a paso en el mundo del Machine Learning. Con cada clase
 
 ### Temario del curso
 
-Este curso es divertido y ameno pero al mismo tiempo todo un reto pues tenemos mucho de Machine Learning por aprender. Lo hemos estructurado del siguiente modo:
+Este curso es divertido y ameno, pero al mismo tiempo todo un reto pues tenemos mucho de Machine Learning por aprender. Lo hemos estructurado del siguiente modo:
 
 - Parte 1 - Preprocesamiento de datos
 - Parte 2 - Regresión: Regresión Lineal Simple, Regresión Lineal Múltiple, Regresión Polinomial, SVR, Regresión en Árboles de Decisión y Regresión con Bosques Aleatorios
