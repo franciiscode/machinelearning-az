@@ -38,7 +38,7 @@ ct = ColumnTransformer(
     remainder='passthrough'                        
 )
 
-X = np.array(ct.fit_transform(X), dtype=np.float)
+X = np.array(ct.fit_transform(X), dtype=float)
 labelencoder_y = LabelEncoder()
 y = labelencoder_y.fit_transform(y)
 
@@ -52,3 +52,6 @@ from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
 X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)
+
+
+
